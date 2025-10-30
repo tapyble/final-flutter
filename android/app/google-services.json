@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "568180813025",
+    "project_id": "tapyble-app",
+    "storage_bucket": "tapyble-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568180813025:android:082a528f3495222f97dba0",
+        "android_client_info": {
+          "package_name": "com.tapyble.tapyble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568180813025-92gcmhjpn3lait4huv727knok5t3f181.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tapyble.tapyble",
+            "certificate_hash": "e9eac692977f3c2c7d025a3bfee36c361efdbf6d"
+          }
+        },
+        {
+          "client_id": "568180813025-btbdr2e1hhgs1dt0o0o671cecs7moedl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADRS5Wt0gmWGYHH1yLlQVfX8HU_YPr860"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568180813025-btbdr2e1hhgs1dt0o0o671cecs7moedl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "568180813025-3f0n5u7mbne3qre0hviv6a82nphdvrf6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tapyble.tapyble"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
